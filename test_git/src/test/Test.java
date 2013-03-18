@@ -16,6 +16,8 @@ public class Test {
 		
 
 		System.out.println("Hallo");
+		System.out.println("Hallo");
+		System.out.println("Hallo von github");
 		System.out.println("Hallo von github");
 
 	}
